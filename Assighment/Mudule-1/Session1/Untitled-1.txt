@@ -1,0 +1,12 @@
+
+# Name: Bhomeshwariba Solanki
+# Date: 19-11-2026
+
+print("===================================")
+print("       BRIGHT FUTURE TUITION       ")
+print("===================================")
+print("Owner Name : Priya Patel")
+print("Subject    : Maths and Science")
+print("City       : Rajkot")
+print("Phone      : 90000 00000")
+print("===================================")
